@@ -2,10 +2,7 @@ aa01
 aa02
 aa03
 aa04
-<<<<<<< HEAD
-aa05
+aa15
 aa06
 aa07
-=======
-aa15
->>>>>>> bd01cb78269910e581b8cc01c28a5fa7924afed7
+
